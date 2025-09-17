@@ -118,5 +118,9 @@ python soc2_checker.py --output soc2_report.html --atlas-public-key ABC --atlas-
 - For MongoDB Atlas, ensure API keys and project ID are correct and have read access.
 - If you encounter errors, check the Details column in the output for more information.
 
+## Example report file
+👉 [View the live page here](https://bibhutimail.github.io/aws-SOC2-compliance-checker/report.html)
+
 ## License
 MIT License
+
